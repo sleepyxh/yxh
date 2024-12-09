@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,cdn.123456.buzz
+DOMAIN-SUFFIX,dpx.zhuoyue.de
 IP-CIDR,104.161.22.114/32,no-resolve
