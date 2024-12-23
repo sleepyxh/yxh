@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,cdn.123456.buzz
 DOMAIN-SUFFIX,dpx.zhuoyue.de
+DOMAIN-SUFFIX,vip.emby.my
 IP-CIDR,104.161.22.114/32,no-resolve
