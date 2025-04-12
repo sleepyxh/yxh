@@ -1,1 +1,8 @@
-DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
+DOMAIN-SUFFIX,581658.best
+DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
+DOMAIN-SUFFIX,cf.lilyemby.my
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,emby-direct.pilipiliultra.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
