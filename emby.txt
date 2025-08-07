@@ -1,2 +1,7 @@
 DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,emby.pilipiliultra.com
+DOMAIN-SUFFIX,cf.lilyemby.my
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
+DOMAIN-SUFFIX,ch.feiyue.lol
+DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
 DOMAIN-SUFFIX,emby3.mcjoker.xyz
