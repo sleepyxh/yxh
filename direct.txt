@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,mobai.sbs
 DOMAIN-SUFFIX,115cdn.de
+DOMAIN-SUFFIX,apple-cdn.net
