@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,speedtest-half.gegeselect.hk
+DOMAIN-SUFFIX,cdn.lilyemby.com
